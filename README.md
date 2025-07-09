@@ -20,4 +20,4 @@
 无广告打扰，专注观看
 我们致力于提供一个干净、无广告的观看平台，让你可以完全专注于影片本身。享受无干扰的纯粹体验。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link](https://github.com/hh54053/220012 ）</span>
